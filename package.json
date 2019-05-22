@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "netlify-lambda": "^1.4.12"
+    "netlify-lambda": "^1.4.13"
   },
   "scripts": {
     "start": "netlify-lambda serve functions",
