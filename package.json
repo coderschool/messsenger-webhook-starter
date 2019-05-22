@@ -8,6 +8,6 @@
   },
   "scripts": {
     "start": "netlify-lambda serve functions",
-    "build": "netlify-lambda serve functions --config ./webpack.config.js"
+    "config": "netlify-lambda serve functions --config ./webpack.config.js"
   }
 }
